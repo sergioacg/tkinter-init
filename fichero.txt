@@ -1,0 +1,2 @@
+En este fichero vamos a establecer el ejemplo de la aplicacion de tkinter().
+Segunda linea del texto
